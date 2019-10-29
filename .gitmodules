@@ -1,0 +1,12 @@
+[submodule "mazongguan-code"]
+	path = mazongguan-code
+	url = https://github.com/yeongjet/mazongguan-code
+[submodule "mazongguan-common"]
+	path = mazongguan-common
+	url = https://github.com/yeongjet/mazongguan-common
+[submodule "mazongguan-user"]
+	path = mazongguan-user
+	url = https://github.com/yeongjet/mazongguan-user
+[submodule "mazongguan-goods"]
+	path = mazongguan-goods
+	url = https://github.com/yeongjet/mazongguan-goods
