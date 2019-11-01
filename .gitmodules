@@ -10,3 +10,6 @@
 [submodule "mazongguan-goods"]
 	path = mazongguan-goods
 	url = https://github.com/yeongjet/mazongguan-goods
+[submodule "mazongguan-session"]
+	path = mazongguan-session
+	url = https://github.com/yeongjet/mazongguan-session.git
