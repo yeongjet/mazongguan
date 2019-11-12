@@ -13,6 +13,3 @@
 [submodule "mazongguan-session"]
 	path = mazongguan-session
 	url = https://github.com/yeongjet/mazongguan-session.git
-[submodule "mazongguan_wechat"]
-	path = mazongguan_wechat
-	url = https://github.com/yeongjet/mazongguan_wechat.git
