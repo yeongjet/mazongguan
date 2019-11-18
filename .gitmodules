@@ -16,3 +16,6 @@
 [submodule "mazongguan-wechat"]
 	path = mazongguan-wechat
 	url = https://github.com/yeongjet/mazongguan-wechat.git
+[submodule "mazongguan-api-gateway"]
+	path = mazongguan-api-gateway
+	url = https://github.com/yeongjet/mazongguan-api-gateway.git
